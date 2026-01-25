@@ -34,7 +34,9 @@ dev → Development branch (contains complete project code & structure)
 
 The project follows a unified structure with clear separation of concerns:
 
+
 week1payroll/
+
 ├─ frontend/
 │  ├─ assets/
 │  ├─ components/
@@ -47,6 +49,8 @@ week1payroll/
 │  ├─ package-lock.json
 │  └─ README.md
 │
+
+
 ├─ backend/
 │  ├─ controllers/
 │  │  └─ .gitkeep
@@ -62,6 +66,8 @@ week1payroll/
 │  ├─ package.json
 │  └─ package-lock.json
 │
+
+
 ├─ database/
 │  ├─ schema.sql
 │  └─ .gitkeep
